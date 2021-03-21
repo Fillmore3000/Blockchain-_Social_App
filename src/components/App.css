@@ -1,0 +1,102 @@
+/* Styles go here */
+
+.App-logo{
+width:150px;
+padding: 5px 0px;
+}
+.text-secondary {
+    color: #6c757d !important;
+    padding:0px 10px 10px 10px;
+}
+#account
+{
+    font-size: 14px;
+    float:right;
+    padding:5px 10px;
+    color: #fff;
+}
+.mr-auto, .mx-auto {
+    margin: 0 0 0 40%;
+    font-size: 18px;
+    padding-top: 15px;
+}
+.bold{
+    font-weight: 700;
+    vertical-align: top;
+    top: 5px;
+    position: relative;
+}
+.c1{
+    color:#fff;
+}
+.c2{
+    color:#232533;
+}
+.c3{
+    color:#313646;
+}
+.c4{
+    color:#494d62;
+}
+.c5{
+    color:#4f5261;
+}
+.c6{
+    color:#5e89fe;
+}
+.c7{
+    color:#86c2fe;
+}
+body{
+    background-color:#232533;
+    color:#fff;
+    font-family: 'Nunito Sans', sans-serif !important;
+
+}
+.form-control {
+    display: block;
+    width: 100%;
+    height: calc(1.5em + 0.75rem + 2px);
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #4f5261;
+    background-color: #232533;
+    background-clip: padding-box;
+    border: 1px solid #313646;
+    border-radius: 0.45rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.btn {
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    user-select: none;
+   
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #fff;
+    border-radius: 0.45rem;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    background: linear-gradient(90deg,#c900ff,#ae00a5)!important;
+}
+.btn:hover{
+    text-decoration: none;
+}
+.card{
+    background-color:#313646;
+    color:#fff;
+}
+.list-group .list-group-item {
+   background-color: #313646;
+   
+}
+.text-muted {
+    color: #494d62;
+    vertical-align: super;
+    font-weight: 700;
+}
+.loader{
+    width: 100px;
+}
